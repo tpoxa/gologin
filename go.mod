@@ -1,4 +1,4 @@
-module github.com/tpoxa/gologin/v2
+module github.com/dghubble/gologin/v2
 
 go 1.12
 
